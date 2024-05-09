@@ -53,7 +53,5 @@ Submit a pull request.
     <td><img src="assets/screenshots/screenshot1.jpeg" alt="Screenshot 1" width="400"/></td>
     <td><img src="assets/screenshots/screenshot2.jpeg" alt="Screenshot 2" width="400"/></td>
     <td><img src="assets/screenshots/screenshot3.jpeg" alt="Screenshot 2" width="400"/></td>
-    <td><img src="assets/screenshots/screenshot4.jpeg" alt="Screenshot 2" width="400"/></td>
-    <td><img src="assets/screenshots/screenshot5.jpeg" alt="Screenshot 2" width="400"/></td>
   </tr>
 </table>
